@@ -1,0 +1,58 @@
+.machine-card-container {
+  border-radius: 12px;
+  background: linear-gradient(145deg, #2f343a, #383e44);
+  box-shadow: 9px 9px 16px #25292d, -9px -9px 16px #434b53;
+  padding: 20px;
+}
+
+.link-parameter {
+  padding: 5px;
+  border-radius: 12px;
+  background: linear-gradient(145deg, #383e44, #2f343a);
+  box-shadow: 5px 5px 10px #262a2f, -5px -5px 10px #424a51;
+}
+
+.machine-identity-container {
+  border-radius: 12px;
+  background: linear-gradient(145deg, #2f343a, #383e44);
+  box-shadow: 17px 17px 34px #1e2124, -17px -17px 34px #4a535c;
+  padding: 5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.machine-card-title {
+  border-radius: 12px;
+  background: linear-gradient(145deg, #2f343a, #383e44);
+  box-shadow: 9px 9px 16px #25292d, -9px -9px 16px #434b53;
+  background-color: white;
+  position: absolute;
+  top: -9px;
+  left: 20px;
+  /* padding: 10px; */
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.link-parameter:hover {
+  background: linear-gradient(145deg, #2f343a, #383e44);
+  box-shadow: 10px 10px 20px #23272c, -10px -10px 20px #454d54;
+  color: #17a2b8 !important;
+}
+
+@media (min-width: 992px) {
+  .modal-lg,
+  .modal-xl {
+    max-width: 800px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .modal-xl {
+    max-width: 1140px;
+  }
+}

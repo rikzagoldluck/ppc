@@ -1,0 +1,4 @@
+Tamplikan date dari hasil data kueri yang ditampilkan, karena tidak realtime.
+Pastikan tidak ada perubahan format data (kolom), karena akan sulit jika harus memindahkan data lagi secara berulang.
+
+

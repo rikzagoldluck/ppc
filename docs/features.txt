@@ -1,0 +1,19 @@
+Dashboard
+overview in warehouse (%)
+overview delivery (%)
+-- || -- OEE (Availabilty, Quailty, Performance) using pie chart
+         Rank Defect W/ pareto Yearly, monthly, daily
+         Yearly, monthly, daily production using line chart with sch vs act 
+
+- FTT Curing, DBRO, GT, Total Per shift
+- Complexity (SKU Running) per Line untuk Curing dan Building, per produk yang menghasilkan output nya sama untuk material. Untuk tracing dengan membandingkan sch tidak tercapai 
+- Stock GT Awal Shift dan Real time Untuk tracing problem curing GT Shortage
+
+- Resume & report Green Tire Inspection
+- Resume & report Detail SR per Mesin, Jenis SR, Shift
+
+
+- Resume & report Defect per Shift (SR, HR, Scrap)
+- Resume & report Quailty Harian
+
+- Defect dengan pareto chart
