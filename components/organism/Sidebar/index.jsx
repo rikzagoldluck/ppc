@@ -137,7 +137,12 @@ const Sidebar = ({ page }) => {
             <li className="nav-header">SHARE WITH US</li>
             <Menu href="/#" name={"Discussion"} icon={"fas fa-users"} />
             <li className="nav-header">ANALYSIS</li>
-            <Menu href="/oee" name={"OEE"} icon={"fas fa-chart-line"} />
+            <Menu
+              href="/oee"
+              name={"OEE"}
+              icon={"fas fa-chart-line"}
+              active={page === "oee" ? true : false}
+            />
 
             <li className="nav-header">DATA PROCESS</li>
           </ul>
