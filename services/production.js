@@ -10,9 +10,8 @@ const API_VERSION = "api/v1";
  */
 export async function getProd(endpoint) {
   try {
-    const res = await axios.get(`${ROOT_API_URL}${endpoint}`);
-
-    return res.data;
+    const res = await fetch(`${ROOT_API_URL}${endpoint}`);
+    return await res.json();
   } catch (res) {
     const err = new Error("Error fetching data");
     err.message = res.messsage;

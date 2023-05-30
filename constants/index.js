@@ -116,4 +116,62 @@ const CURING_MACHINE_LIST = {
   RTCH09: 0,
 };
 
-export { BUILDING_MACHINE_LIST, CURING_MACHINE_LIST };
+const OEE_TARGET = 65;
+
+const ITEM_LOSS_CATEGORY = [
+  {
+    id: "planned-closing-time",
+    name: "Planned Closing Time",
+  },
+  {
+    id: "no-schedule",
+    name: "No Schedule",
+  },
+  {
+    id: "planned-maintenance",
+    name: "Planned Maintenance",
+  },
+  {
+    id: "rest-sholat-toilet",
+    name: "Rest, Sholat, & Toilet",
+  },
+  {
+    id: "test-development",
+    name: "Test and Development",
+  },
+  {
+    id: "set-up",
+    name: "Set up",
+  },
+  {
+    id: "utility-pln-trip",
+    name: "Utility & PLN Trip",
+  },
+  {
+    id: "machine-breakdown",
+    name: "Machine Breakdown",
+  },
+  {
+    id: "material-shortage",
+    name: "Material Shortage",
+  },
+  {
+    id: "lower-efficency",
+    name: "Lower Efficency",
+  },
+  {
+    id: "delay-production",
+    name: "Delay Production",
+  },
+  {
+    id: "quality-loss",
+    name: "Quality Loss",
+  },
+];
+
+export {
+  BUILDING_MACHINE_LIST,
+  CURING_MACHINE_LIST,
+  OEE_TARGET,
+  ITEM_LOSS_CATEGORY,
+};

@@ -1,17 +1,15 @@
-import React, { useCallback, useEffect, useState } from "react";
+import React, { forwardRef, useState } from "react";
+import LossTime from "./LossTime";
+
+import ReactDatePicker from "react-datepicker";
+import "react-datepicker/dist/react-datepicker.css";
 import Highcharts from "highcharts";
 import HighchartsData from "highcharts/modules/data";
 import HighchartsDrilldown from "highcharts/modules/drilldown";
 import HighchartsExporting from "highcharts/modules/exporting";
 import HighchartsExportData from "highcharts/modules/export-data";
 import HighchartsAccessibilty from "highcharts/modules/accessibility";
-import HighchartsReact from "highcharts-react-official";
-import Script from "next/script";
-import Head from "next/head";
-// import $ from "jquery";
-import { getMcnStop } from "../../../services/oee";
-// import { DateTimePicker } from "react-tempusdominus-bootstrap";
-// import "datatables.net-responsive-bs4";
+import { HighchartsReact } from "highcharts-react-official";
 
 // START HIGHCHARTS SETUP OPTION
 if (typeof Highcharts === "object") {
@@ -277,251 +275,162 @@ if (typeof Highcharts === "object") {
 
   Highcharts.setOptions(Highcharts.theme);
 }
-
 const opt = {
   chart: {
-    zoomType: "xy",
     type: "column",
   },
   title: {
-    align: "left",
-    text: "OEE Breakdown",
-  },
-  subtitle: {
-    align: "left",
-    text: "Click the columns to view detail and drag to zoom in",
-  },
-  accessibility: {
-    announceNewData: {
-      enabled: true,
-    },
+    text: "OEE for Capacity Losses per Period",
   },
   xAxis: {
-    type: "Period",
-    labels: {
-      style: {
-        color: "white",
-      },
-    },
+    categories: [],
+    crosshair: true,
   },
-  yAxis: {
-    labels: {
-      format: "{value} %",
-    },
-    title: {
-      text: "Total Percentage",
-    },
-  },
-
-  legend: {
-    enabled: false,
-  },
-  plotOptions: {
-    series: {
-      borderWidth: 0,
-      dataLabels: {
-        enabled: true,
-      },
-    },
-  },
-
-  tooltip: {
-    headerFormat: "<span style={{font-size:11}}>{series.name}</span><br>",
-    pointFormat:
-      "<span style={{color: point.color}}>{point.name}</span>: <b>{point.y}</b> Pcs<br/>",
-  },
-
-  series: [
+  yAxis: [
     {
-      name: "",
-      colorByPoint: true,
-      data: [],
+      id: "total_oee",
+      min: 0,
+      title: {
+        text: "OEE Percentage (%)",
+      },
+    },
+    {
+      title: {
+        id: "oee_target",
+        text: "OEE Target (%)",
+      },
+
+      opposite: true,
     },
   ],
-  drilldown: {
-    breadcrumbs: {
-      position: {
-        align: "right",
-      },
-    },
-    series: [{}],
+  tooltip: {
+    headerFormat: "<span style={{fontSize:15px}}>{point.key}</span><table>",
+    pointFormat:
+      "<tr><td style={{color:series.color,padding:0}}>{series.name}: </td>" +
+      "<td style={{padding:0}}><b>{point.y:.2f} %</b></td></tr>",
+    footerFormat: "</table>",
+    shared: true,
+    useHTML: true,
   },
+  plotOptions: {
+    column: {
+      pointPadding: 0.2,
+      borderWidth: 1,
+    },
+  },
+
+  series: [],
 };
-
-// END HIGHCHARTS SETUP OPTION
-const index = () => {
+export default function index() {
+  const [selectedPeriodicity, setSelectedPeriodicity] =
+    useState("pilih-periode");
+  const [selectedSection, setSelectedSection] = useState("pilih-section");
+  const [startDate, setStartDate] = useState(new Date());
   const [chartOpt, setChartOpt] = useState(opt);
-  const [ready, setReady] = useState(false);
 
-  // ALGORITMA FETCHING DAN PARSING DATA MACHINE STOP UNTUK OEE
-  // FETCHING DATA BERDASARKAN PILIHAN PERIODICITY DAN SECTION
-  const [mcnStop, setmcnStop] = useState([]);
-  //  getMcnStop("Building").then((res) => console.log(res));
+  const DateRangeCustomInput = forwardRef(({ value, onClick }, ref) => (
+    <button
+      className="btn btn-dark w-100 text-left"
+      onClick={onClick}
+      ref={ref}
+    >
+      <i className="fas fa-calendar-alt"></i> {value}
+    </button>
+  ));
 
-  // HITUNG TOTAL DOWNTIME PER ITEM LOSS TIME DALAM MENIT
-  // BUAT ARRAY OF OBJECT YANG BERISI DATA BERDASARKAN PERIOD DAN PERSENTASE TOTAL DOWNTIME PER ITEM LOSS TIME
-  // (Total Downtime per Item Loss time / Period in minutes) * 100
-
-  useEffect(() => {
-    // $(document).ready(function () {
-    const table = $("#myTable").DataTable({
-      dom: "Bfrtip",
-      responsive: true,
-      autoFill: true,
-      buttons: [
-        "copy",
-        "csv",
-        "excel",
-        {
-          extend: "pdfHtml5",
-          orientation: "landscape",
-          pageSize: "A4",
-        },
-        "print",
-        "colvis",
-      ],
-    });
-
-    $(table.column(0).nodes()).addClass("highlight");
-
-    // DATE RANGE
-    // });
-    // (Total Downtime per Item Loss time / Period in minutes) * 100
-  }, []);
+  const addMonths = (date, months) => {
+    let d = date.getDate();
+    date.setMonth(date.getMonth() + +months);
+    if (date.getDate() != d) {
+      date.setDate(0);
+    }
+    return date;
+  };
 
   return (
     <section className="content">
       <div className="container-fluid">
         <div className="row">
-          <div className="col-md-12 mr-2">
-            {/* <HighchartsReact highcharts={Highcharts} options={chartOpt} /> */}
+          <div className="col-md-12 mr-2 mb-3">
+            <HighchartsReact highcharts={Highcharts} options={chartOpt} />
           </div>
-          <div className="col-md-12 mt-5">
+          <div className="col-md-12">
             <div className="row">
               <div className="col-4">
                 <div className="form-group">
-                  <label>Minimal</label>
+                  <label>Section</label>
                   <select
                     className="form-control select2bs4"
                     style={{ width: "100%" }}
+                    onChange={(e) => setSelectedSection(e.target.value)}
+                    value={selectedSection}
                   >
-                    <option selected="selected">Alabama</option>
-                    <option>Alaska</option>
-                    <option>California</option>
-                    <option>Delaware</option>
-                    <option>Tennessee</option>
-                    <option>Texas</option>
-                    <option>Washington</option>
+                    <option value="pilih-section">Pilih Section</option>
+                    <option value="Material">Material</option>
+                    <option value="Building">Building</option>
+                    <option value="Curing">Curing</option>
                   </select>
                 </div>
               </div>
               <div className="col-4">
                 <div className="form-group">
-                  <label>Minimal</label>
+                  <label>Period</label>
                   <select
                     className="form-control select2bs4"
                     style={{ width: "100%" }}
+                    onChange={(e) => setSelectedPeriodicity(e.target.value)}
+                    value={selectedPeriodicity}
                   >
-                    <option selected="selected">Alabama</option>
-                    <option>Alaska</option>
-                    <option>California</option>
-                    <option>Delaware</option>
-                    <option>Tennessee</option>
-                    <option>Texas</option>
-                    <option>Washington</option>
+                    <option value="pilih-periode">Pilih Periode</option>
+                    <option value="yearly">Yearly</option>
+                    <option value="monthly">Monthly</option>
+                    <option value="daily">Daily</option>
                   </select>
                 </div>
               </div>
-              <div className="col-4">{/* <DateTimePicker /> */}</div>
+              <div className="col-4">
+                <div className="form-group">
+                  <label>Periodicity</label>
+                  {selectedPeriodicity === "monthly" && (
+                    <ReactDatePicker
+                      selected={startDate}
+                      onChange={(date) => setStartDate(date)}
+                      showYearPicker
+                      dateFormat="yyyy"
+                      customInput={<DateRangeCustomInput />}
+                      maxDate={addMonths(new Date(), 0)}
+                    />
+                  )}{" "}
+                  {selectedPeriodicity === "daily" && (
+                    <ReactDatePicker
+                      selected={startDate}
+                      onChange={(date) => setStartDate(date)}
+                      dateFormat="MM/yyyy"
+                      showMonthYearPicker
+                      customInput={<DateRangeCustomInput />}
+                      maxDate={addMonths(new Date(), 0)}
+                    />
+                  )}
+                  {(selectedPeriodicity === "yearly" ||
+                    selectedPeriodicity === "pilih-periode") && (
+                    <ReactDatePicker
+                      disabled
+                      placeholderText="This can use in monthly or daily"
+                      customInput={<DateRangeCustomInput />}
+                    />
+                  )}
+                </div>
+              </div>
             </div>
-
-            <table
-              id="myTable"
-              className="table table-striped table-bordered text-center align-middle table-hover"
-              style={{ width: "100%" }}
-            >
-              <thead>
-                <tr>
-                  <th
-                    colSpan={1}
-                    rowSpan={3}
-                    align="center"
-                    style={{ verticalAlign: "middle" }}
-                  >
-                    Period
-                  </th>
-                  <th colSpan={12}>Category / Item loss time</th>
-                  <th
-                    colSpan={1}
-                    rowSpan={3}
-                    align="center"
-                    style={{ verticalAlign: "middle" }}
-                  >
-                    Total Loss Time
-                  </th>
-                </tr>
-                <tr>
-                  <th colSpan={1}>Closing Time</th>
-                  <th colSpan={4}>Planned Down Time</th>
-                  <th colSpan={4}>Unplanned Down Time</th>
-                  <th colSpan={2}>Speed Loss Time</th>
-                  <th colSpan={1}>Quality Loss Time</th>
-                </tr>
-                <tr>
-                  <th>Planned Closing Time</th>
-                  <th>No Schedule</th>
-                  <th>Planned Maintenance</th>
-                  <th>Rest, Shalat, Toilet</th>
-                  <th>Test and Development</th>
-                  <th>Set Up</th>
-                  <th>Utility & PLN Trip</th>
-                  <th>Machine Breakdowns</th>
-                  <th>Material Shortage</th>
-                  <th>Lower Efficiency</th>
-                  <th>Delay Production</th>
-                  <th>Quality Loss</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>2023</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                </tr>
-                <tr>
-                  <td>2024</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                  <td>100%</td>
-                </tr>
-              </tbody>
-            </table>
           </div>
+          <LossTime
+            selectedSection={selectedSection}
+            startDate={startDate}
+            selectedPeriodicity={selectedPeriodicity}
+            chartOptProps={(opt) => setChartOpt(opt)}
+          />
         </div>
       </div>
     </section>
   );
-};
-
-export default index;
+}

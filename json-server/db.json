@@ -29,10 +29,10 @@
       "tottime": "347",
       "dlm_menit": "5,78",
       "dlm_jam": "0,1",
-      "tstart": "01/03/2023 07:00",
-      "tstop": "01/03/2023 07:06",
-      "vtstop": "01/03/2023 07:06",
-      "vtstart": "01/03/2023 07:00",
+      "tstart": "01/04/2023 07:00",
+      "tstop": "01/04/2023 07:06",
+      "vtstop": "01/04/2023 07:06",
+      "vtstart": "01/04/2023 07:00",
       "vshift": "I",
       "item": "RA325-GT",
       "category_losses": "SET UP",
@@ -61,13 +61,13 @@
       "tottime": "882",
       "dlm_menit": "14,7",
       "dlm_jam": "0,25",
-      "tstart": "01/03/2023 07:21",
-      "tstop": "01/03/2023 07:36",
-      "vtstop": "01/03/2023 07:36",
-      "vtstart": "01/03/2023 07:21",
+      "tstart": "02/03/2023 07:21",
+      "tstop": "02/03/2023 07:36",
+      "vtstop": "02/03/2023 07:36",
+      "vtstart": "02/03/2023 07:21",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -83,7 +83,7 @@
       "vtstart": "01/03/2023 07:36",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -99,7 +99,7 @@
       "vtstart": "01/03/2023 07:42",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -115,7 +115,7 @@
       "vtstart": "01/03/2023 08:06",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -131,7 +131,7 @@
       "vtstart": "01/03/2023 08:08",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -147,7 +147,7 @@
       "vtstart": "01/03/2023 08:29",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -163,7 +163,7 @@
       "vtstart": "01/03/2023 08:54",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -179,7 +179,7 @@
       "vtstart": "01/03/2023 09:18",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -195,7 +195,7 @@
       "vtstart": "01/03/2023 09:21",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -211,7 +211,7 @@
       "vtstart": "01/03/2023 09:35",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -227,7 +227,7 @@
       "vtstart": "01/03/2023 09:42",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -243,7 +243,7 @@
       "vtstart": "01/03/2023 09:51",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -259,7 +259,7 @@
       "vtstart": "01/03/2023 10:12",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -275,7 +275,7 @@
       "vtstart": "01/03/2023 10:54",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -291,7 +291,7 @@
       "vtstart": "01/03/2023 11:15",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -307,7 +307,7 @@
       "vtstart": "01/03/2023 11:43",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -323,7 +323,7 @@
       "vtstart": "01/03/2023 12:27",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -339,7 +339,7 @@
       "vtstart": "01/03/2023 12:29",
       "vshift": "I",
       "item": "RA325-GT",
-      "category_losses": "DELAY PROD.",
+      "category_losses": "DELAY PROD",
       "mcn_section": "Building"
     },
     {
@@ -363,249 +363,288 @@
     {
       "bc_entried": "RA7589260001",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.91119212963,
-      "cur_out": 44805.91119212963,
+      "cur_in": "01/09/2022 09:52:07 PM",
+      "cur_out": "01/09/2022 09:52:07 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2022-I",
       "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260002",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.865625,
-      "cur_out": 44805.865625,
+      "cur_in": "01/09/2022 08:46:30 PM",
+      "cur_out": "01/09/2022 08:46:30 PM",
       "cur_shift": "II",
       "date_shift": "01/04/2023-I",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260003",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.86568287037,
-      "cur_out": 44805.86568287037,
+      "cur_in": "01/09/2022 08:46:35 PM",
+      "cur_out": "01/09/2022 08:46:35 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260004",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.821608796294,
-      "cur_out": 44805.821608796294,
+      "cur_in": "01/09/2022 07:43:07 PM",
+      "cur_out": "01/09/2022 07:43:07 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260005",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.77072916667,
-      "cur_out": 44805.77072916667,
+      "cur_in": "01/09/2022 06:29:51 PM",
+      "cur_out": "01/09/2022 06:29:51 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260006",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.721979166665,
-      "cur_out": 44805.721979166665,
+      "cur_in": "01/09/2022 05:19:39 PM",
+      "cur_out": "01/09/2022 05:19:39 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260007",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.82166666666,
-      "cur_out": 44805.82166666666,
+      "cur_in": "01/09/2022 07:43:12 PM",
+      "cur_out": "01/09/2022 07:43:12 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260008",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.770787037036,
-      "cur_out": 44805.770787037036,
+      "cur_in": "01/09/2022 06:29:56 PM",
+      "cur_out": "01/09/2022 06:29:56 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260009",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.722025462965,
-      "cur_out": 44805.722025462965,
+      "cur_in": "01/09/2022 05:19:43 PM",
+      "cur_out": "01/09/2022 05:19:43 PM",
       "cur_shift": "II",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260010",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.143900462965,
-      "cur_out": 44806.143900462965,
+      "cur_in": "02/09/2022 03:27:13 AM",
+      "cur_out": "02/09/2022 03:27:13 AM",
       "cur_shift": "III",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-0585"
+      "cur_opr01": "16-0585",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260011",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.10103009259,
-      "cur_out": 44806.10103009259,
+      "cur_in": "02/09/2022 02:25:29 AM",
+      "cur_out": "02/09/2022 02:25:29 AM",
       "cur_shift": "III",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-0585"
+      "cur_opr01": "16-0585",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260012",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.054618055554,
-      "cur_out": 44806.054618055554,
+      "cur_in": "02/09/2022 01:18:39 AM",
+      "cur_out": "02/09/2022 01:18:39 AM",
       "cur_shift": "III",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-0585"
+      "cur_opr01": "16-0585",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260013",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.14383101852,
-      "cur_out": 44806.14383101852,
+      "cur_in": "02/09/2022 03:27:07 AM",
+      "cur_out": "02/09/2022 03:27:07 AM",
       "cur_shift": "III",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0585"
+      "cur_opr01": "16-0585",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260014",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.100949074076,
-      "cur_out": 44806.100949074076,
+      "cur_in": "02/09/2022 02:25:22 AM",
+      "cur_out": "02/09/2022 02:25:22 AM",
       "cur_shift": "III",
       "date_shift": "01/03/2023-I",
       "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0585"
+      "cur_opr01": "16-0585",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260015",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.34054398148,
-      "cur_out": 44806.34054398148,
+      "cur_in": "02/09/2022 08:10:23 AM",
+      "cur_out": "02/09/2022 08:10:23 AM",
       "cur_shift": "I",
       "date_shift": "01/03/2023-II",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-1146"
+      "cur_opr01": "16-1146",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260016",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.48869212963,
-      "cur_out": 44806.48869212963,
+      "cur_in": "02/09/2022 11:43:43 AM",
+      "cur_out": "02/09/2022 11:43:43 AM",
       "cur_shift": "I",
       "date_shift": "01/03/2023-II",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-1146"
+      "cur_opr01": "16-1146",
+      "id": "",
+      "ct": "56"
     },
     {
       "bc_entried": "RA7589260017",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44806.44332175926,
-      "cur_out": 44806.44332175926,
+      "cur_in": "02/09/2022 10:38:23 AM",
+      "cur_out": "02/09/2022 10:38:23 AM",
       "cur_shift": "I",
       "date_shift": "01/03/2023-III",
       "cur_mcn": "RTCD09R",
       "lr_mcn": "R",
-      "cur_opr01": "16-1146"
+      "cur_opr01": "16-1146",
+      "id": "",
+      "ct": "56"
     },
     {
-      "id": 9997,
       "bc_entried": "RA7589269999",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.91119212963,
-      "cur_out": 44805.91119212963,
+      "cur_in": "02/09/2022 09:33:37 AM",
+      "cur_out": "02/09/2022 09:33:37 AM",
       "cur_shift": "II",
-      "cur_mcn": "RTCD09L",
       "date_shift": "02/03/2023-I",
+      "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "9997",
+      "ct": "56"
     },
     {
-      "id": 9996,
       "bc_entried": "RA7589269999",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.91119212963,
-      "cur_out": 44805.91119212963,
+      "cur_in": "02/09/2022 04:14:34 PM",
+      "cur_out": "02/09/2022 04:14:34 PM",
       "cur_shift": "II",
-      "cur_mcn": "RTCD09L",
       "date_shift": "02/03/2023-I",
+      "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "9996",
+      "ct": "56"
     },
     {
-      "id": 9995,
       "bc_entried": "RA7589269999",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.91119212963,
-      "cur_out": 44805.91119212963,
+      "cur_in": "02/09/2022 02:02:03 PM",
+      "cur_out": "02/09/2022 02:02:03 PM",
       "cur_shift": "II",
-      "cur_mcn": "RTCD09L",
       "date_shift": "01/03/2023-I",
+      "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "9995",
+      "ct": "56"
     },
     {
-      "id": 9994,
       "bc_entried": "RA7589269999",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.91119212963,
-      "cur_out": 44805.91119212963,
+      "cur_in": "02/09/2022 02:01:57 PM",
+      "cur_out": "02/09/2022 02:01:57 PM",
       "cur_shift": "II",
-      "cur_mcn": "RTCD09L",
       "date_shift": "01/03/2023-I",
+      "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "9994",
+      "ct": "56"
     },
     {
-      "id": 9993,
       "bc_entried": "RA7589269999",
       "descr": "TIRE TBR 385/65R22.5 20PR GSW226",
-      "cur_in": 44805.91119212963,
-      "cur_out": 44805.91119212963,
+      "cur_in": "02/09/2022 10:38:29 AM",
+      "cur_out": "02/09/2022 10:38:29 AM",
       "cur_shift": "II",
-      "cur_mcn": "RTCD09L",
       "date_shift": "01/03/2023-I",
+      "cur_mcn": "RTCD09L",
       "lr_mcn": "L",
-      "cur_opr01": "16-0589"
+      "cur_opr01": "16-0589",
+      "id": "9993",
+      "ct": "56"
     }
   ],
   "prodbld": [
@@ -795,6 +834,3128 @@
       "opr": "14-0354",
       "opr02": "16-0715",
       "txntype": "WIP"
+    }
+  ],
+  "ct": [
+    {
+      "item_code": "RA005",
+      "cycletime": "66",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA006",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA200",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA201",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA300",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA304",
+      "cycletime": "76",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA305",
+      "cycletime": "82",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA307",
+      "cycletime": "83",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA308",
+      "cycletime": "83",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA309",
+      "cycletime": "83",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA324",
+      "cycletime": "66",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA325",
+      "cycletime": "71",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA327",
+      "cycletime": "69",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA334",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA344",
+      "cycletime": "61",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA345",
+      "cycletime": "71",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA347",
+      "cycletime": "68",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA354",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA362",
+      "cycletime": "54",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA365",
+      "cycletime": "68",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA385",
+      "cycletime": "0",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA401",
+      "cycletime": "0",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA404",
+      "cycletime": "67",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA432",
+      "cycletime": "46",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA440",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA441",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA442",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA464",
+      "cycletime": "67",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA473",
+      "cycletime": "49",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA474",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA476",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA480",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA481",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA482",
+      "cycletime": "51",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA504",
+      "cycletime": "66",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA506",
+      "cycletime": "71",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA514",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA516",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA520",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA522",
+      "cycletime": "55",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA554",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA555",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA556",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA557",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA558",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA574",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA577",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA578",
+      "cycletime": "62",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA594",
+      "cycletime": "62",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA595",
+      "cycletime": "59",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA615",
+      "cycletime": "70",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA616",
+      "cycletime": "62",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA635",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA636",
+      "cycletime": "61",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA657",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA658",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA677",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA678",
+      "cycletime": "54",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA698",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA699",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA719",
+      "cycletime": "61",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA739",
+      "cycletime": "62",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA757",
+      "cycletime": "57",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA758",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA760",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA780",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA817",
+      "cycletime": "68",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA837",
+      "cycletime": "61",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA877",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA878",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA901",
+      "cycletime": "80",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA902",
+      "cycletime": "83",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA903",
+      "cycletime": "73",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA904",
+      "cycletime": "63",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA905",
+      "cycletime": "70",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA906",
+      "cycletime": "54",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA907",
+      "cycletime": "64",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA908",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA909",
+      "cycletime": "68",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA910",
+      "cycletime": "67",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA911",
+      "cycletime": "51",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA913",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA914",
+      "cycletime": "83",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA915",
+      "cycletime": "51",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA916",
+      "cycletime": "71",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA917",
+      "cycletime": "71",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA918",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA919",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA920",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA921",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA922",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA923",
+      "cycletime": "46",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA924",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA925",
+      "cycletime": "70",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA927",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA974",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA976",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD010",
+      "cycletime": "49",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD011",
+      "cycletime": "47",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD012",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD013",
+      "cycletime": "48",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD014",
+      "cycletime": "52",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD015",
+      "cycletime": "54",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD016",
+      "cycletime": "55",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD017",
+      "cycletime": "50",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD018",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD031",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD032",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD033",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD034",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD035",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD036",
+      "cycletime": "59",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD050",
+      "cycletime": "59",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD051",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD052",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD053",
+      "cycletime": "59",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD054",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD055",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD071",
+      "cycletime": "51",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD073",
+      "cycletime": "48",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD091",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD092",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD095",
+      "cycletime": "57",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD111",
+      "cycletime": "56",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD112",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD914",
+      "cycletime": "52",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD933",
+      "cycletime": "60",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI016",
+      "cycletime": "55",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI036",
+      "cycletime": "52",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RU059",
+      "cycletime": "58",
+      "type_mcn": "Plant R Dome (ND)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA005",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA006",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA200",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA201",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA300",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA304",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA305",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA307",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA308",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA309",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA324",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA325",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA327",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA334",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA344",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA345",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA347",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA354",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA362",
+      "cycletime": "54",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA365",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA385",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA401",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA404",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA432",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA440",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA441",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA442",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA464",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA473",
+      "cycletime": "49",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA474",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA476",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA480",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA481",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA482",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA504",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA506",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA514",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA516",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA520",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA522",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA554",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA555",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA556",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA557",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA558",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA574",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA577",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA578",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA594",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA595",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA615",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA616",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA635",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA636",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA657",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA658",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA677",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA678",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA698",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA699",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA719",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA739",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA757",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA758",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA760",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA780",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA817",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA837",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA877",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA878",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA901",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA902",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA903",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA904",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA905",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA906",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA907",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA908",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA909",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA910",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA911",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA913",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA914",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA915",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA916",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA917",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA918",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA919",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA920",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA921",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA922",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA923",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA924",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA925",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA927",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA974",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA976",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD010",
+      "cycletime": "51",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD011",
+      "cycletime": "49",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD012",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD013",
+      "cycletime": "50",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD014",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD015",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD016",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD017",
+      "cycletime": "52",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD018",
+      "cycletime": "58",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD031",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD032",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD033",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD034",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD035",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD036",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD050",
+      "cycletime": "61",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD051",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD052",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD053",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD054",
+      "cycletime": "62",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD055",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD071",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD073",
+      "cycletime": "50",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD091",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD092",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD095",
+      "cycletime": "59",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD111",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD112",
+      "cycletime": "60",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD914",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD933",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI016",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI036",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RU059",
+      "cycletime": "0",
+      "type_mcn": "Plant A Dome (HD)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA005",
+      "cycletime": "66",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA006",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA200",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA201",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA300",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA304",
+      "cycletime": "76",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA305",
+      "cycletime": "82",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA307",
+      "cycletime": "83",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA308",
+      "cycletime": "83",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA309",
+      "cycletime": "0",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA324",
+      "cycletime": "66",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA325",
+      "cycletime": "71",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA327",
+      "cycletime": "69",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA334",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA344",
+      "cycletime": "66",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA345",
+      "cycletime": "71",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA347",
+      "cycletime": "68",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA354",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA362",
+      "cycletime": "54",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA365",
+      "cycletime": "68",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA385",
+      "cycletime": "59",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA401",
+      "cycletime": "57",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA404",
+      "cycletime": "67",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA432",
+      "cycletime": "46",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA440",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA441",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA442",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA464",
+      "cycletime": "67",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA473",
+      "cycletime": "49",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA474",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA476",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA480",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA481",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA482",
+      "cycletime": "51",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA504",
+      "cycletime": "66",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA506",
+      "cycletime": "71",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA514",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA516",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA520",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA522",
+      "cycletime": "55",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA554",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA555",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA556",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA557",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA558",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA574",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA577",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA578",
+      "cycletime": "62",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA594",
+      "cycletime": "62",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA595",
+      "cycletime": "59",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA615",
+      "cycletime": "70",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA616",
+      "cycletime": "62",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA635",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA636",
+      "cycletime": "61",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA657",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA658",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA677",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA678",
+      "cycletime": "54",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA698",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA699",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA719",
+      "cycletime": "61",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA739",
+      "cycletime": "61",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA757",
+      "cycletime": "57",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA758",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA760",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA780",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA817",
+      "cycletime": "68",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA837",
+      "cycletime": "61",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA877",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA878",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA901",
+      "cycletime": "80",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA902",
+      "cycletime": "83",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA903",
+      "cycletime": "68",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA904",
+      "cycletime": "63",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA905",
+      "cycletime": "70",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA906",
+      "cycletime": "54",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA907",
+      "cycletime": "64",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA908",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA909",
+      "cycletime": "68",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA910",
+      "cycletime": "67",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA911",
+      "cycletime": "51",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA913",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA914",
+      "cycletime": "83",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA915",
+      "cycletime": "51",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA916",
+      "cycletime": "71",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA917",
+      "cycletime": "71",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA918",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA919",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA920",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA921",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA922",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA923",
+      "cycletime": "46",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA924",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA925",
+      "cycletime": "70",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA927",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA974",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA976",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD010",
+      "cycletime": "49",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD011",
+      "cycletime": "47",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD012",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD013",
+      "cycletime": "48",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD014",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD015",
+      "cycletime": "54",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD016",
+      "cycletime": "55",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD017",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD018",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD031",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD032",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD033",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD034",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD035",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD036",
+      "cycletime": "59",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD050",
+      "cycletime": "59",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD051",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD052",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD053",
+      "cycletime": "59",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD054",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD055",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD071",
+      "cycletime": "51",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD073",
+      "cycletime": "48",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD091",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD092",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD095",
+      "cycletime": "57",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD111",
+      "cycletime": "56",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD112",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD914",
+      "cycletime": "50",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD933",
+      "cycletime": "60",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI016",
+      "cycletime": "55",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI036",
+      "cycletime": "52",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RU059",
+      "cycletime": "58",
+      "type_mcn": "Plant R Platen (NP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA005",
+      "cycletime": "63",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA006",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA200",
+      "cycletime": "60",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA201",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA300",
+      "cycletime": "55",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA304",
+      "cycletime": "72",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA305",
+      "cycletime": "72",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA307",
+      "cycletime": "83",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA308",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA309",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA324",
+      "cycletime": "61",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA325",
+      "cycletime": "70",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA327",
+      "cycletime": "69",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA334",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA344",
+      "cycletime": "61",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA345",
+      "cycletime": "70",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA347",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA354",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA362",
+      "cycletime": "54",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA365",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA385",
+      "cycletime": "59",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA401",
+      "cycletime": "57",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA404",
+      "cycletime": "63",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA432",
+      "cycletime": "48",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA440",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA441",
+      "cycletime": "54",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA442",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA464",
+      "cycletime": "54",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA473",
+      "cycletime": "49",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA474",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA476",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA480",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA481",
+      "cycletime": "54",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA482",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA504",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA506",
+      "cycletime": "66",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA514",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA516",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA520",
+      "cycletime": "55",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA522",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA554",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA555",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA556",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA557",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA558",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA574",
+      "cycletime": "60",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA577",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA578",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA594",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA595",
+      "cycletime": "59",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA615",
+      "cycletime": "60",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA616",
+      "cycletime": "60",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA635",
+      "cycletime": "60",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA636",
+      "cycletime": "61",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA657",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA658",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA677",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA678",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA698",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA699",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA719",
+      "cycletime": "61",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA739",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA757",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA758",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA760",
+      "cycletime": "54",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA780",
+      "cycletime": "54",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA817",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA837",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA877",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA878",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA901",
+      "cycletime": "72",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA902",
+      "cycletime": "72",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA903",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA904",
+      "cycletime": "63",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA905",
+      "cycletime": "70",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA906",
+      "cycletime": "54",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA907",
+      "cycletime": "64",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA908",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA909",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA910",
+      "cycletime": "67",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA911",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA913",
+      "cycletime": "50",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA914",
+      "cycletime": "71",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA915",
+      "cycletime": "51",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA916",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA917",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA918",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA919",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA920",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA921",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA922",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA923",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA924",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA925",
+      "cycletime": "70",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA927",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA974",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RA976",
+      "cycletime": "56",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD010",
+      "cycletime": "51",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD011",
+      "cycletime": "49",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD012",
+      "cycletime": "52",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD013",
+      "cycletime": "50",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD014",
+      "cycletime": "52",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD015",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD016",
+      "cycletime": "57",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD017",
+      "cycletime": "52",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD018",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD031",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD032",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD033",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD034",
+      "cycletime": "60",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD035",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD036",
+      "cycletime": "61",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD050",
+      "cycletime": "61",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD051",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD052",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD053",
+      "cycletime": "61",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD054",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD055",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD071",
+      "cycletime": "53",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD073",
+      "cycletime": "50",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD091",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD092",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD095",
+      "cycletime": "59",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD111",
+      "cycletime": "58",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD112",
+      "cycletime": "60",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD914",
+      "cycletime": "52",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RD933",
+      "cycletime": "62",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI016",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RI036",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
+    },
+    {
+      "item_code": "RU059",
+      "cycletime": "0",
+      "type_mcn": "Plant A Platen (HP)",
+      "proses": "Curing"
     }
   ]
 }

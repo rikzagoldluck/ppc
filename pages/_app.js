@@ -6,7 +6,6 @@ import "admin-lte/plugins/fontawesome-free/css/all.min.css";
 import "admin-lte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css";
 import "../styles/globals.css";
 import "../styles/PaginationSwiper.css";
-import "tempusdominus-bootstrap/build/css/tempusdominus-bootstrap.css";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 

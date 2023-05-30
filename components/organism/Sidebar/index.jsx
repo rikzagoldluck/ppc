@@ -56,7 +56,7 @@ const Sidebar = ({ page }) => {
               }
               href="#"
               name={"Our Section"}
-              icon={"fas fa-hands-helping"}
+              icon={"fas fa-running"}
               treeview={[
                 {
                   name: "Material 1",
@@ -135,13 +135,28 @@ const Sidebar = ({ page }) => {
             />
 
             <li className="nav-header">SHARE WITH US</li>
-            <Menu href="/#" name={"Discussion"} icon={"fas fa-users"} />
+            <Menu href="#" name={"Discussion"} icon={"fas fa-users"} />
             <li className="nav-header">ANALYSIS</li>
             <Menu
-              href="/oee"
-              name={"OEE"}
+              href="#"
+              name={"Losses"}
               icon={"fas fa-chart-line"}
-              active={page === "oee" ? true : false}
+              active={page === "oee" || page === "breakdown" ? true : false}
+              treeview={[
+                {
+                  name: "Capacity Losses",
+                  href: "/oee",
+                  icon: "fas fa-battery-half",
+                  active: page === "oee" ? true : false,
+                },
+                {
+                  name: "Breakdown Losses",
+                  href: "/oee/breakdown",
+                  icon: "fas fa-project-diagram",
+                  active: page === "breakdown" ? true : false,
+                },
+              ]}
+              menuOpen={page === "oee" || page === "breakdown" ? true : false}
             />
 
             <li className="nav-header">DATA PROCESS</li>

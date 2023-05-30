@@ -9,7 +9,7 @@ const index = () => {
       <Sidebar page="oee" />
 
       <main className="content-wrapper">
-        <ContentHeader title="OEE" />
+        <ContentHeader title="Capacity Losses" />
         {/* <Suspense fallback={<div>Loading...</div>}> */}
         <Content />
         {/* </Suspense> */}

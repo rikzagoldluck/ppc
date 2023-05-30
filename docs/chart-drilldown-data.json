@@ -1,0 +1,1949 @@
+
+[
+    {
+        "name": "Production",
+        "type": "column",
+        "colorByPoint": true,
+        "data": [
+            {
+                "name": "2022",
+                "y": 1,
+                "drilldown": "2022"
+            },
+            {
+                "name": "2023",
+                "y": 21,
+                "drilldown": "2023"
+            }
+        ]
+    },
+    {
+        "breadcrumbs": {
+            "position": {
+                "align": "right"
+            }
+        },
+        "series": [
+            {
+                "name": "2022",
+                "id": "2022",
+                "data": [
+                    {
+                        "name": "March",
+                        "y": 1,
+                        "drilldown": "03/2022"
+                    }
+                ]
+            },
+            {
+                "name": "2023",
+                "id": "2023",
+                "data": [
+                    {
+                        "name": "April",
+                        "y": 1,
+                        "drilldown": "04/2023"
+                    },
+                    {
+                        "name": "March",
+                        "y": 20,
+                        "drilldown": "03/2023"
+                    }
+                ]
+            },
+            {
+                "name": "March",
+                "id": "03/2022",
+                "data": [
+                    {
+                        "name": "01",
+                        "y": 1,
+                        "drilldown": "01/03/2022"
+                    }
+                ]
+            },
+            {
+                "name": "April",
+                "id": "04/2023",
+                "data": [
+                    {
+                        "name": "01",
+                        "y": 1,
+                        "drilldown": "01/04/2023"
+                    }
+                ]
+            },
+            {
+                "name": "March",
+                "id": "03/2023",
+                "data": [
+                    {
+                        "name": "01",
+                        "y": 18,
+                        "drilldown": "01/03/2023"
+                    }
+                ]
+            },
+            {
+                "name": "March",
+                "id": "03/2023",
+                "data": [
+                    {
+                        "name": "02",
+                        "y": 2,
+                        "drilldown": "02/03/2023"
+                    }
+                ]
+            },
+            {
+                "name": "01/03/2022",
+                "id": "01/03/2022",
+                "data": [
+                    {
+                        "name": "Shift I",
+                        "y": 1,
+                        "drilldown": "01/03/2022-I"
+                    },
+                    {
+                        "name": "Shift II",
+                        "y": 0,
+                        "drilldown": "01/03/2022-II"
+                    },
+                    {
+                        "name": "Shift III",
+                        "y": 0,
+                        "drilldown": "01/03/2022-III"
+                    }
+                ]
+            },
+            {
+                "name": "01/04/2023",
+                "id": "01/04/2023",
+                "data": [
+                    {
+                        "name": "Shift I",
+                        "y": 1,
+                        "drilldown": "01/04/2023-I"
+                    },
+                    {
+                        "name": "Shift II",
+                        "y": 0,
+                        "drilldown": "01/04/2023-II"
+                    },
+                    {
+                        "name": "Shift III",
+                        "y": 0,
+                        "drilldown": "01/04/2023-III"
+                    }
+                ]
+            },
+            {
+                "name": "01/03/2023",
+                "id": "01/03/2023",
+                "data": [
+                    {
+                        "name": "Shift I",
+                        "y": 15,
+                        "drilldown": "01/03/2023-I"
+                    },
+                    {
+                        "name": "Shift II",
+                        "y": 2,
+                        "drilldown": "01/03/2023-II"
+                    },
+                    {
+                        "name": "Shift III",
+                        "y": 1,
+                        "drilldown": "01/03/2023-III"
+                    }
+                ]
+            },
+            {
+                "name": "02/03/2023",
+                "id": "02/03/2023",
+                "data": [
+                    {
+                        "name": "Shift I",
+                        "y": 2,
+                        "drilldown": "02/03/2023-I"
+                    },
+                    {
+                        "name": "Shift II",
+                        "y": 0,
+                        "drilldown": "02/03/2023-II"
+                    },
+                    {
+                        "name": "Shift III",
+                        "y": 0,
+                        "drilldown": "02/03/2023-III"
+                    }
+                ]
+            },
+            {
+                "name": "01/03/2022-I",
+                "id": "01/03/2022-I",
+                "data": [
+                    {
+                        "name": "RTCA01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD09",
+                        "y": 22
+                    },
+                    {
+                        "name": "RTCE01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH09",
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "01/04/2023-I",
+                "id": "01/04/2023-I",
+                "data": [
+                    {
+                        "name": "RTCA01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD09",
+                        "y": 22
+                    },
+                    {
+                        "name": "RTCE01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH09",
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "01/03/2023-I",
+                "id": "01/03/2023-I",
+                "data": [
+                    {
+                        "name": "RTCA01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD09",
+                        "y": 22
+                    },
+                    {
+                        "name": "RTCE01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH09",
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "01/03/2023-II",
+                "id": "01/03/2023-II",
+                "data": [
+                    {
+                        "name": "RTCA01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD09",
+                        "y": 22
+                    },
+                    {
+                        "name": "RTCE01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH09",
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "01/03/2023-III",
+                "id": "01/03/2023-III",
+                "data": [
+                    {
+                        "name": "RTCA01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD09",
+                        "y": 22
+                    },
+                    {
+                        "name": "RTCE01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH09",
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "02/03/2023-I",
+                "id": "02/03/2023-I",
+                "data": [
+                    {
+                        "name": "RTCA01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCA09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCB09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCC09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCD09",
+                        "y": 22
+                    },
+                    {
+                        "name": "RTCE01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCE09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCF09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCG09",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH01",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH02",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH03",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH04",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH05",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH06",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH07",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH08",
+                        "y": 0
+                    },
+                    {
+                        "name": "RTCH09",
+                        "y": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
+
