@@ -1,5 +1,5 @@
 import React, { forwardRef, useState } from "react";
-import LossTime from "./LossTime";
+import OEE from "./OEE";
 
 import ReactDatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -423,7 +423,7 @@ export default function index() {
               </div>
             </div>
           </div>
-          <LossTime
+          <OEE
             selectedSection={selectedSection}
             startDate={startDate}
             selectedPeriodicity={selectedPeriodicity}

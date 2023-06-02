@@ -1,6 +1,5 @@
 import ContentHeader from "../../../components/moleculs/ContentHeader";
 import Navbar from "../../../components/organism/Navbar/Navbar";
-import BreakDown from "../../../components/organism/OEE/BreakDown";
 import Sidebar from "../../../components/organism/Sidebar";
 
 export default function index() {
