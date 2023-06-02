@@ -4,6 +4,11 @@
 - Dashboard monitoring WIP Plant TBR
 - Memvisualisasi data yang bersumber dari barcode dengan pendekatan analitik
 
+## Tech Stack
+
+**Client:** Next.js, React, Bootstrap 4.6, AdminLTE V.3
+
+**Server:** json-server
 
 
 ## Run Locally
@@ -11,7 +16,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rikzagoldluck/ppc.git
 ```
 
 Go to the project directory
